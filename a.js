@@ -7,7 +7,7 @@ const body = `
     <style>
         * {padding: 0;margin: 0;box-sizing: border-box;}
         html {font-family: Arial, Helvetica, sans-serif;font-size: 10px;}
-        body {overflow: hidden;width: 100%;height: 100vh;color: white;background-size: 200px;position: relative;background-image: url("blob:https://web.telegram.org/ec126ee6-5e0f-4b54-be68-c98798658fb1");}
+        body {overflow: hidden;width: 100%;height: 100vh;color: white;background-size: 200px;position: relative;background-image: url("https://i.imgur.com/IauAPCV.jpeg");}
         body>section {padding: 2rem;width: 100%;height: 100vh;overflow-y: scroll;background-color: rgba(0, 0, 0, 0.573);}
         body>section>div {padding: 3rem ;background-color: rgba(0, 0, 0, 0.5);border: 3px solid rgba(0, 0, 0, 0.6);text-shadow: 0px 0px 20px rgba(255, 255, 255, 0.21);display: flex;flex-direction: column;justify-content: flex-start;max-width: fit-content;margin-left: auto;margin-right: auto;}
         body>section>div>h1 {font-size: 3rem;margin-bottom: 2rem;word-wrap: break-word; white-space: normal; }
